@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/341b58b7-bd2c-44ba-a01f-ae6756589d1d/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/ad-id-verification",
+    "appService.deploySubpath": "."
+}
